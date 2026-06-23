@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sentir tu cuerpo, cerca de mí
+> La noche enciende lo que hay entre tú y yo
+> Sentir tu cuerpo, así, sin fin
+> Bailamos lento, se pierde el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
