@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu cuerpo
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu cuerpo** (sentir-tu-cuerpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:08:43.825365 | `v1` | `094fa59912c3f859772dce9865853aecaea8a1c291d94d1b8b5ffbba933da6d6` | `4dc914b808f03510dd273fca60187790d0ae8769529553f9f67bb72353de4d7e` | `2026-06-23_sentir-tu-cuerpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
