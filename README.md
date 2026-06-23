@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sentir tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-cuerpo/) |
+| **Get License** | [License this song: Sentir tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4121)
 
 ---
 
